@@ -1,8 +1,8 @@
 
-## **Tech Blog Application**
+## **DevTalks Web-Application**
 
 ## Introduction:
-Welcome to our Tech Blog Application! This platform is designed to provide users with a space to read and share tech-related articles. Whether you're a tech enthusiast, a developer, or simply curious about the latest tech trends, our application has something for everyone.
+Welcome to our DevTalks  Application! This platform is designed to provide users with a space to read and share tech-related articles. Whether you're a tech enthusiast, a developer, or simply curious about the latest tech trends, our application has something for everyone.
 **
 ## Key Features:**
 
@@ -41,4 +41,4 @@ Welcome to our Tech Blog Application! This platform is designed to provide users
 - **Database:** MySQL
 
 ## Conclusion:
-Thank you for exploring our Tech Blog Application! We hope you enjoy the experience. If you have any questions or feedback, feel free to reach out. Happy reading!
+Thank you for exploring our DevTalks! We hope you enjoy the experience. If you have any questions or feedback, feel free to reach out. Happy reading!
